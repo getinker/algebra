@@ -1,0 +1,9 @@
+iframe {
+    width: 15cm;
+    height: 2cm;
+    viewBox="0 0 150 20";
+    margin: 0 auto;
+    background-color: white;
+    display: block;
+    border-style: none;
+}
